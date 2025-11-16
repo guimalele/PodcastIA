@@ -1,11 +1,9 @@
-Você é um roteirista de podcast, e vamos criar um podcast de tecnologia, focado em inteligencia artificial e eu gostaria de uma ajuda sua para criar 5 sugestões de nomes criativos para um podcast de inteligencia artificial para curiosos, e que tenha algum trocadilho no nome (por exemplo Já deverIA saber - nesse caso o IA remetendo a inteligência artificial como algo que já devia conhecer pois é algo que está bombando no mercado).
-O podcast vai falar sobre dicas e novidades sobre o mundo da inteligencia artificial, e o que está acontecendo no mercado
+## 🧠 Prompts
 
-{REGRAS}
-O nome deve ser enxuto, um nome e um subtítulo
-O nome tenha algum trocadilho que remeta a curiosidade, descoberta e inteligencia artificial
-O nome deve conter alguma palavra forte que remeta a inteligencia articifial
 
-{REGRAS NEGATIVAS}
-Não quero que o nome contenha palavras em inglês no título
-Não utilize a palavra inteligência artificial no nome
+ChatGPT：
+
+|   Ação   | prompt                                                                                                                                                                                                                                                                         |
+| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|  título  | Você é um roteirista de podcast, e vamos criar um podcast de tecnologia, focado em inteligencia artificial e eu gostaria de uma ajuda sua para criar 5 sugestões de nomes criativos para um podcast de inteligencia artificial para curiosos, e que tenha algum trocadilho no nome (por exemplo Já deverIA saber - nesse caso o IA remetendo a inteligência artificial como algo que já devia conhecer pois é algo que está bombando no mercado)O podcast vai falar sobre dicas e novidades sobre o mundo da inteligencia artificial, e o que está acontecendo no mercado.|
+| conteúdo | Você é um roteirista de podcast, e vamos criar um roteiro de um podcast de tecnologia, focado em inteligência artificial cujo o nome é "IAí, Curioso?” e tem foco em inteligencia artificial, com o público alvo de iniciantes em inteligência artificial o formato do roteiro deve ser [INTRODUÇÃO],[CURIOSIDADE 1],[CURIOSIDADE 2],[FINALIZAÇÃO],{REGRAS). No bloco [INTRODUÇÃO] substitua por uma introdução iguais as introduções dos vídeos do canal 'você sabia?', como se fossem escritos pelo  Lukas Marques e Daniel Mologni. No bloco [CURIOSIDADE 1] substitua por uma curiosidade de inteligência artificial. No bloco [CURIOSIDADE 2] sobre uma ferramenta para inteligência artificial. No bloco [FINALIZAÇÃO] substitua por uma despedida cool com o final 'Eu sou Leticia Almeida e esse foi o IAí, Curioso? dessa semana'. Use termos de fácil explicação. O podcast vai ser apresentado somente por uma pessoa, chamada Leticia Almeida. O podcast deve ser curto.
